@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "762112980094",
+    "firebase_url": "https://rotten-mach.firebaseio.com",
+    "project_id": "rotten-mach",
+    "storage_bucket": "rotten-mach.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762112980094:android:e51b0239348f5c54",
+        "android_client_info": {
+          "package_name": "com.rottenmach.vivek.xmorpher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762112980094-tsia6sg3ltr0gloku9d60jpf25n7e4ca.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rottenmach.vivek.xmorpher",
+            "certificate_hash": "8442b6822be6b8844f637e6ec7e6dfcaf1f9a62b"
+          }
+        },
+        {
+          "client_id": "762112980094-se6chi1pho8as1ti33flmk55s3hn37op.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmfXCiNQofLdmGd7Nnd0eumLqxqV77X8A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762112980094-se6chi1pho8as1ti33flmk55s3hn37op.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
